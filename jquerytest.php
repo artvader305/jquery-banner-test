@@ -28,7 +28,7 @@
 			<button id="show">Show</button>
         </div>
         <div class="col-md-4">
-		<img id="imgSurfer" src="images/surfer_by_seneca_ doss_thumbnail1.png" alt="Word Puzzle logo">
+		<img id="imgSurfer" src="images/surfer_by_seneca_ doss_thumbnail1.png" alt="water surfer on surf board">
 		</div>
 	</div>
 </div>
